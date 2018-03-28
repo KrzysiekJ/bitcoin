@@ -14,6 +14,8 @@ wider compatibility with third party services and a more advanced base.
 
 For downloads vist: https://github.com/janko33bd/bitcoin/releases
 
+Configuration file is named `lore.conf` by default.
+
 License
 -------
 
